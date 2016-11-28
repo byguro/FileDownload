@@ -1,0 +1,14 @@
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\FileDownloader.exe.config
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\Resource\favicon.ico
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\FileDownloader.exe.manifest
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\FileDownloader.application
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\FileDownloader.exe
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\bin\Debug\FileDownloader.pdb
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.csprojResolveAssemblyReference.cache
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.frmAna.resources
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.Properties.Resources.resources
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.csproj.GenerateResource.Cache
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.exe.manifest
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.application
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.exe
+C:\Users\gurkanm\Source\Repos\FileDownload\FileDownloader\obj\Debug\FileDownloader.pdb

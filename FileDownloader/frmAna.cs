@@ -74,7 +74,10 @@ namespace FileDownloader
 
                     Int64 dosyaBoyutu = dYanit.ContentLength;
                     strYanit = dWebClient.OpenRead(new Uri(ImageServer + fileUri));
-                    strLocal = new FileStream(saveFilePath + fileUri, FileMode.Create, FileAccess.Write, FileShare.None);
+
+                     var fname = fileUri.Substring(fileUri.LastIndexOf("/")+1,fileUri.Length- fileUri.LastIndexOf("/")-1);
+
+                    strLocal = new FileStream(saveFilePath + fname, FileMode.Create, FileAccess.Write, FileShare.None);
 
                     int byteOkunan = 0;
 
@@ -119,7 +122,7 @@ namespace FileDownloader
         {
             if (!Control_FileText()) return;
 
-            if (!Control_ServerUrl()) return;
+            //if (!Control_ServerUrl()) return;
 
             if (!Control_SaveFilePath()) return;
             Control.CheckForIllegalCrossThreadCalls = false;
